@@ -13,11 +13,12 @@ https://drive.google.com/file/d/1BNrzM0B0QJsh5US5vxKTROscrmFkwu4W/view
 
 ## Screenshots 
 
+<img width="748" alt="Screenshot 2023-05-04 at 10 25 42 PM" src="https://user-images.githubusercontent.com/121422214/236383476-415e6d82-d335-4e74-8402-208ce44948e8.png">
+
+
 <img width="1470" alt="Screenshot 2023-05-04 at 10 26 39 PM" src="https://user-images.githubusercontent.com/121422214/236383455-35085650-9644-4364-81a5-c4d3af821a0d.png">
 
 <img width="1470" alt="Screenshot 2023-05-04 at 10 26 55 PM" src="https://user-images.githubusercontent.com/121422214/236383464-91902c16-2ac3-4526-8d16-e790ba128c34.png">
-
-<img width="748" alt="Screenshot 2023-05-04 at 10 25 42 PM" src="https://user-images.githubusercontent.com/121422214/236383476-415e6d82-d335-4e74-8402-208ce44948e8.png">
 
 
 ## Technologies Used
