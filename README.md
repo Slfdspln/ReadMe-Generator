@@ -17,7 +17,7 @@ The current undertaking is enabled by Node.js v16, and leverages the inquirer v8
 
 ## Installation
 
-Clone the repo: git clone 
+Clone the repo: git clone  git@github.com:Slfdspln/readme-generator.git
 
 Open in VS Code. If you do not have VS code you must install it.
 
