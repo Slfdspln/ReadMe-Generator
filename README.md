@@ -7,8 +7,17 @@ Week-9 Challenge
 ##  Description 
 This node.js application streamlines the creation of professional README.md documents by guiding developers through a series of prompts via the inquirer package. With this tool, developers can quickly generate README.md files without sacrificing valuable time better spent on creating and maintaining their applications. The application collects user input such as name, application title, description, installation instructions, usage information, contribution guidelines, test instructions, preferred licensing, GitHub handle, and primary email. The output is a well-organized and comprehensive README.md file that reflects the user's inputs. Through the development of this application, I gained a deeper understanding of backend development problem-solving without a graphical user interface. I also became proficient in importing libraries such as inquirer and file system, utilizing prompts within the command line, and utilizing ES6 syntax such as template literals and arrow functions.
 
+## Live Screen Recording of Application Functionality
+
+https://drive.google.com/file/d/1BNrzM0B0QJsh5US5vxKTROscrmFkwu4W/view
+
 ## Screenshots 
 
+<img width="1470" alt="Screenshot 2023-05-04 at 10 26 39 PM" src="https://user-images.githubusercontent.com/121422214/236383455-35085650-9644-4364-81a5-c4d3af821a0d.png">
+
+<img width="1470" alt="Screenshot 2023-05-04 at 10 26 55 PM" src="https://user-images.githubusercontent.com/121422214/236383464-91902c16-2ac3-4526-8d16-e790ba128c34.png">
+
+<img width="748" alt="Screenshot 2023-05-04 at 10 25 42 PM" src="https://user-images.githubusercontent.com/121422214/236383476-415e6d82-d335-4e74-8402-208ce44948e8.png">
 
 
 ## Technologies Used
